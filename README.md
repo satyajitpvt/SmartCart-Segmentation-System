@@ -17,16 +17,6 @@ The SmartCart Segmentation System is a Machine Learning project that segments cu
 - Matplotlib
 - Scikit-learn
 
-##  Project Structure
-```
-SmartCart-Segmentation-System/
-│── smartcart.ipynb
-│── README.md
-│── .gitignore
-```
-
-##  Dataset
-The dataset used for this project is **not included** in this repository, as per assignment requirements.
 
 ##  How to Run
 1. Clone this repository.
