@@ -1,15 +1,15 @@
 # SmartCart Segmentation System
 
-## 📌 Project Overview
+##  Project Overview
 The SmartCart Segmentation System is a Machine Learning project that segments customers into different groups based on their purchasing behavior. Customer segmentation helps businesses understand their customers better and create personalized marketing strategies.
 
-## 🎯 Objectives
+##  Objectives
 - Analyze customer purchasing patterns.
 - Segment customers into meaningful groups.
 - Help businesses target customers more effectively.
 - Improve customer satisfaction through personalized recommendations.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -17,7 +17,7 @@ The SmartCart Segmentation System is a Machine Learning project that segments cu
 - Matplotlib
 - Scikit-learn
 
-## 📂 Project Structure
+##  Project Structure
 ```
 SmartCart-Segmentation-System/
 │── smartcart.ipynb
@@ -25,10 +25,10 @@ SmartCart-Segmentation-System/
 │── .gitignore
 ```
 
-## 📊 Dataset
+##  Dataset
 The dataset used for this project is **not included** in this repository, as per assignment requirements.
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository.
 2. Install the required Python libraries:
    ```bash
@@ -37,11 +37,11 @@ The dataset used for this project is **not included** in this repository, as per
 3. Open `smartcart.ipynb` in Jupyter Notebook.
 4. Run all cells to perform customer segmentation.
 
-## 📈 Features
+##  Features
 - Data preprocessing
 - Customer behavior analysis
 - Customer segmentation using Machine Learning
 - Data visualization
 
-## 👨‍💻 Author
+##  Author
 **Satyajit Toppo**
