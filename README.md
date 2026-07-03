@@ -16,13 +16,14 @@ The SmartCart Segmentation System is a Machine Learning project that segments cu
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Seaborn
 
 
 ##  How to Run
 1. Clone this repository.
 2. Install the required Python libraries:
    ```bash
-   pip install pandas numpy matplotlib scikit-learn
+   pip install pandas numpy matplotlib  seaborn scikit-learn
    ```
 3. Open `smartcart.ipynb` in Jupyter Notebook.
 4. Run all cells to perform customer segmentation.
